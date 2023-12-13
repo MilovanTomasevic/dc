@@ -9,7 +9,7 @@ hide_description: true
 selected_projects:
 - _projects/dubinsko-ciscenje-doma.md
 - _projects/restoransko-ciscenje.md
-more_projects: usluge-ciscenja.md
+more_projects: usluge-dubinskog-ciscenja.md
 selected_posts:
   - saveti-za-dom-i-stan/_posts/2023-02-01-tri-saveta-za-blistav-stan-bez-napora.md
   - restoranski-saveti-za-higijenu/_posts/2023-02-01-higijenski-prioriteti-u-restoranu-sta-treba-da-znate.md

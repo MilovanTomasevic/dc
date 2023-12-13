@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/usluge/ciscenje-restorana.jpg
 links:
   - title: Link
-    url: /usluge-ciscenja/restoransko-ciscenje/
+    url: /usluge-dubinskog-ciscenja/restoransko-ciscenje/
 ---
 
 

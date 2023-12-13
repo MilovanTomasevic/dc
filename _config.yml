@@ -302,7 +302,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /usluge-ciscenja/:path/
+    permalink:         /usluge-dubinskog-ciscenja/:path/
     output:            true
 
 

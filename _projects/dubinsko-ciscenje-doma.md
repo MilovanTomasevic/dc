@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/usluge/ciscenje-sobe.jpg
 links:
   - title: Link
-    url: /usluge-ciscenja/dubinsko-ciscenje-doma/
+    url: /usluge-dubinskog-ciscenja/dubinsko-ciscenje-doma/
 ---
 
 - Pružamo temeljno i profesionalno čišćenje domova i stanova. 
