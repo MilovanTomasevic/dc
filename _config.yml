@@ -43,7 +43,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Dubinsko Čišćenje
-  email:               dubinskopranje.ba@gmail.com
+  email:               dubinskociscenje.ba@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -51,12 +51,12 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Usluge Čišćenja
-    url:               /usluge-ciscenja/
+  - title:             Usluge Dubinskog Čišćenja
+    url:               /usluge-dubinskog-ciscenja/
   - title:             Galerija
     url:               /galerija/
-  - title:             Cena Čišćenja
-    url:               /cena-ciscenja/
+  - title:             Cena Dubinskog Čišćenja
+    url:               /cena-dubinskog-ciscenja/
   - title:             Česta Pitanja
     url:               /cesta-pitanja/
   - title:             Kontakt

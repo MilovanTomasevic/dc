@@ -1,12 +1,12 @@
 ---
-title: Cena Čišćenje
+title: Cena Dubinskog Čišćenja
 description: >
-  Cena Čišćenje - Dubinsko Čišćenje Stanova, Kuća i Restorana
+  Cena Dubinskog Čišćenja - Dubinsko Čišćenje Stanova, Kuća i Restorana
 hide_description: true
-permalink: /cena-ciscenja/
+permalink: /cena-dubinskog-ciscenja/
 ---
 
-### Cena Čišćenje - Dubinsko Čišćenje Stanova, Kuća i Restorana (DubinskoCiscenje.ba)
+### Cena Dubinskog Čišćenja - Dubinsko Čišćenje Stanova, Kuća i Restorana (DubinskoCiscenje.ba)
 
 - Razumemo da svaki dom i svaki restoran ima svoje jedinstvene potrebe. Stoga, prilagođavamo cene prema veličini prostora, zahtevima i budžetu naših klijenata.
 

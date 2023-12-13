@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Usluge Čišćenja
+title: Usluge Dubinskog Čišćenja
 show_collection: projects
 description: >
   Dubinsko Čišćenje Stanova, Kuća i Restorana 
