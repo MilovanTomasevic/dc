@@ -33,11 +33,11 @@ featured: true
 - Restorani zahtevaju poseban pristup čišćenju, a [mi smo tu](/kontakt/) da vam pružimo prilagođene usluge održavanja higijene kako biste se usredsredili na pružanje vrhunskog gastronomskog iskustva.
 
 
-### Usluge Čišćenja
+### Usluge Dubinskog Čišćenja
 
 <!--projects-->
 
-### Članci
+### Članci o Dubinskom Čišćenju
 
 <!--posts-->
 
