@@ -24,7 +24,7 @@ featured: true
 
 - Pružamo vrhunsku uslugu dubinskog čišćenja za domove, stanove i restorane. Osigurajte čist, udoban i higijenski prostor uz [naše iskusne timove](/kontakt/) .
 
-## Pofesionalno Čišćenje Sa Stilom
+## Profesionalno Čišćenje Sa Stilom
 
 - [Uz našu stručnost](/kontakt/), donosimo profesionalno čišćenje s elegancijom. Otkrijte kako naša tirkizna paleta boja odražava svežinu i harmoniju u svakom prostoru koji dotaknemo.
 
