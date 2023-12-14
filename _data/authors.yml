@@ -3,12 +3,12 @@
 # Change `author1` to your shortname.
 author1:
   name:              Dubinsko Čišćenje
-  email:             dubinskociscenje.ba@gmail.com
+  email:             DubinskoCiscenje.BA@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Osvežite Svaki Kutak Vašeg Prostora sa [Dubinskim Čišćenjem](/kontakt/).
+    Osvežite Svaki Kutak Vašeg Prostora uz [DubinskoČišćenje.BA](/kontakt/).
 
 
   # This photo will be used in the about section
@@ -23,14 +23,14 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:           dubinskociscenje.ba@gmail.com
-    instagram:       DubinskoCiscenje.ba
-    twitter:         DubinskoCiscenje.ba
-    facebook:        DubinskoCiscenje.ba
-    linkedin:        DubinskoCiscenje.ba
-    youtube:         DubinskoCiscenje.ba
-    skype:           DubinskoCiscenje.ba
-    github:          DubinskoCiscenje.ba
+    instagram:       DubinskoCiscenje.BA
+    facebook:        DubinskoCiscenje.BA
+    youtube:         DubinskoCiscenjeBA
+    email:           DubinskoCiscenje.BA@gmail.com
+    linkedin:        DubinskoCiscenjeBA
+    twitter:         DubinskoCisceBA
+    # skype:           DubinskoCiscenje.ba
+    # github:          DubinskoCiscenje.ba
     # rss:             https://<url>/feed.xml
     # google:          <number>
     # vk:              <username>

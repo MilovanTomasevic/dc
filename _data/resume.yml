@@ -3,11 +3,11 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Dubinsko Čišćenje"
-  label: "Osvežite Svaki Kutak Vašeg Prostora"
+  label: "Osvežite Svaki Kutak Vašeg Prostora uz DubinskoCiscenje.BA"
   picture: "/assets/img/logo.png"
-  email: "DubinskoCiscenje.ba@gmail.com"
+  email: "DubinskoCiscenje.BA@gmail.com"
   phone: "+38671234567"
-  website: "https://DubinskoCiscenje.ba"
+  website: "https://DubinskoCiscenje.BA"
   summary: >
     Hvala vam što razmatrate naše usluge dubinskog čišćenja. Ako želite unaprediti svoj prostor čistoće i svežine ili imate specifična pitanja o našim uslugama, slobodno nas kontaktirajte. Naš tim je tu da vam pruži sve potrebne informacije i asistira vam u procesu rezervacije.
   location:
@@ -18,20 +18,20 @@ basics:
     region: "Republika Srpska"
   profiles:
     - network: "Instagram"
-      username: "DubinskoCiscenje.ba"
-      url: "https://www.instagram.com/DubinskoCiscenje.ba/"
+      username: "DubinskoCiscenje.BA"
+      url: "https://www.instagram.com/DubinskoCiscenje.BA/"
     - network: "Facebook"
-      username: "DubinskoCiscenje.ba"
-      url: "https://www.facebook.com/DubinskoCiscenje.ba"
+      username: "DubinskoCiscenje.BA"
+      url: "https://www.facebook.com/DubinskoCiscenje.BA"
     - network: "YouTube"
-      username: "DubinskoCiscenje.ba"
-      url: "https://www.youtube.com/@DubinskoCiscenje.ba"
+      username: "DubinskoCiscenjeBA"
+      url: "https://www.youtube.com/@DubinskoCiscenjeBA"
     - network: "Twitter"
-      username: "DubinskoCiscenje.ba"
-      url: "https://twitter.com/DubinskoCiscenje.ba"
+      username: "DubinskoCiscenjeBA"
+      url: "https://twitter.com/DubinskoCisceBA"
     - network: "LinkedIn"
-      username: "DubinskoCiscenje.ba"
-      url: "https://www.linkedin.com/in/DubinskoCiscenje.ba/"
+      username: "DubinskoCiscenjeBA"
+      url: "https://www.linkedin.com/in/DubinskoCiscenjeBA/"
 skills:
   - name: "Dubinsko Čišćenje"
     level: "Master"
