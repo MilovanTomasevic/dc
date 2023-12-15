@@ -25,9 +25,28 @@ featured: true
 
 Dubinsko Čišćenje BA je vaša prva destinacija za besprekorno čiste prostore u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu. Naša stručnost u dubinskom čišćenju prostora pruža vam neuporedivu čistoću, stvarajući zdrav i ugodan ambijent.
 
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/zdebnsrp.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ## Pokrivenost Gradova:
 
 Ponosno pokrivamo četiri ključna grada u Bosni i Hercegovini - Prijedor, Banjaluka, Sanski Most i Novi Grad. Bez obzira gde se nalazite, pružamo profesionalno dubinsko čišćenje za vaše domove ili poslovne prostore.
+
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/pzdaizbm.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
 
 ## Naše Usluge:
 
@@ -35,19 +54,55 @@ Ponosno pokrivamo četiri ključna grada u Bosni i Hercegovini - Prijedor, Banja
 - Profesionalno održavanje higijene za restorane, kafiće i druge objekte.
 - Posebne usluge pranja i čišćenja za različite vrste prostora.
 
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/vykfwhbl.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ## Zašto Odabrati Dubinsko Čišćenje BA:
 
 - Tim stručnjaka posvećen higijeni i detaljima.
 - Upotreba najefikasnijih sredstava i opreme.
 - Prilagođene usluge prema vašim potrebama.
 
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/pqxpvgtw.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 ## Kontakt:
 
 Započnite put ka besprekornom čišćenju vaših prostora! Pozovite [Dubinsko Čišćenje BA](/kontakt/) na [065 019 012](tel:+38765019012) i rezervišite termin pranja ili čišćenja.
 
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/ixvpzmyr.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 Dopustite da Dubinsko Čišćenje BA unapredi čistoću vašeg prostora!
 
-Pružamo vrhunsku uslugu dubinskog čišćenja za domove, stanove i restorane. Osigurajte čist, udoban i higijenski prostor uz [naše iskusne timove](/kontakt/) .
+Pružamo vrhunsku uslugu dubinskog čišćenja za domove, stanove i restorane. Osigurajte čist, udoban i higijenski prostor uz [naše iskusne timove](/kontakt/).
+
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/ynfkqjnz.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
 
 ### Profesionalno Čišćenje Sa Stilom
 

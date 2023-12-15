@@ -8,9 +8,18 @@ permalink: /cesta-pitanja/
 
 Dobrodošli na našu stranicu Česta Pitanja, gde želimo olakšati vaše iskustvo s našim uslugama. Ovde smo odgovorili na nekoliko uobičajenih pitanja kako bismo vam pružili brže informacije o našem dubinskom čišćenju stanova, kuća i restorana.
 
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/piakqbri.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
+
 - Table of Contents
 {:toc}
-
 
 ### P: Kako se razlikuje dubinsko čišćenje od redovnog čišćenja?
    - *O: Dubinsko čišćenje ide korak dalje, fokusirajući se na temeljnu higijenu i detalje koji često prolaze neprimećeno u redovnom čišćenju.*
@@ -40,4 +49,13 @@ Dobrodošli na našu stranicu Česta Pitanja, gde želimo olakšati vaše iskust
    - *O: Da, koristimo specifične tehnike prilagođene restoranima, uključujući dezinfekciju kuhinjskih površina, toaleta i prostora za goste.*
 
 ### P: Da li nudite hitne intervencije za hitne situacije poput prokišnjavanja ili nesreća u restoranu?
-    - *O: Da, imamo timove spremne za hitne intervencije kako bismo rešili nepredviđene situacije u najkraćem mogućem roku.*
+   - *O: Da, imamo timove spremne za hitne intervencije kako bismo rešili nepredviđene situacije u najkraćem mogućem roku.*
+
+<div class="centered">
+<lord-icon
+    src="https://cdn.lordicon.com/bitpikpk.json"
+    trigger="loop"
+    colors="primary:#008080,secondary:#CCCCCC"
+    style="width:250px;height:250px">
+</lord-icon>
+</div>
