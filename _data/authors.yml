@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Dubinsko Čišćenje
+  name:              Dubinsko Čišćenje BA
   email:             DubinskoCiscenje.BA@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    [Dubinsko Čišćenje BA](/kontakt/) na 065 019 012 !
+    [Dubinsko Čišćenje BA](/kontakt/) na [065 019 012](tel:+38765019012) i rezervišite svoj termin odmah! Profesionalna Higijena za Vaše Prostore u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu!
 
 
   # This photo will be used in the about section
