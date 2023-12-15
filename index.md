@@ -1,10 +1,10 @@
 ---
 layout: welcome
-cover: false
-title: Dubinsko Čišćenje
+cover: true
+title: Dubinsko Čišćenje BA na 065 019 012
 image: /assets/img/logo.png
 description: >
-  Dobrodošli na portal za dubinsko čišćenje! Pružamo izuzetne usluge održavanja čistoće u različitim prostorima, uključujući domove, kuće i poslovne objekte poput restorana.
+  Dubinsko Čišćenje BA na 065 019 012 ! Pružamo izuzetne usluge održavanja čistoće u različitim prostorima, uključujući domove, kuće i poslovne objekte poput restorana.
 hide_description: true
 selected_projects:
 - _projects/dubinsko-ciscenje-doma.md
