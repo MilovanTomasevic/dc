@@ -11,8 +11,8 @@ selected_projects:
 - _projects/restoransko-ciscenje.md
 more_projects: usluge-dubinskog-ciscenja.md
 selected_posts:
-  - saveti-za-dom-i-stan/_posts/2023-02-01-tri-saveta-za-blistav-stan-bez-napora.md
-  - restoranski-saveti-za-higijenu/_posts/2023-02-01-higijenski-prioriteti-u-restoranu-sta-treba-da-znate.md
+  - sa-dubinskim-ciscenjem/_posts/2023-12-04-kako-dubinsko-ciscenje-unapreduje-kvalitet-vaseg-zivota-saveti-i-beneficije.md
+  - sa-dubinskim-ciscenjem/_posts/2023-11-29-najcesce-greske-u-ciscenju-koje-treba-izbegavati-vodic-za-efikasnost.md
 more_posts: posts.md
 featured: true
 ---
