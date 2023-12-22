@@ -7,8 +7,10 @@ description: >
   Dubinsko Čišćenje BA na 065 019 012 ! Profesionalna Higijena za Vaše Prostore u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu!
 hide_description: true
 selected_projects:
-- _projects/dubinsko-ciscenje-doma.md
-- _projects/restoransko-ciscenje.md
+- _projects/dubinsko-ciscenje-ba.md
+- _projects/dubinsko-pranje-ba.md
+- _projects/poliranje-auta-ba.md
+- _projects/pranje-auta-ba.md
 more_projects: usluge-dubinskog-ciscenja.md
 selected_posts:
   - sa-dubinskim-ciscenjem/_posts/2023-12-04-kako-dubinsko-ciscenje-unapreduje-kvalitet-vaseg-zivota-saveti-i-beneficije.md
