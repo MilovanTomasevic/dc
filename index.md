@@ -13,8 +13,8 @@ selected_projects:
 - _projects/pranje-auta-ba.md
 more_projects: usluge-dubinskog-ciscenja.md
 selected_posts:
-  - sa-dubinskim-ciscenjem/_posts/2023-12-04-kako-dubinsko-ciscenje-unapreduje-kvalitet-vaseg-zivota-saveti-i-beneficije.md
-  - sa-dubinskim-ciscenjem/_posts/2023-11-29-najcesce-greske-u-ciscenju-koje-treba-izbegavati-vodic-za-efikasnost.md
+  - sa-dubinskim-ciscenjem-ba/_posts/2023-11-11-dubinsko-ciscenje-na-radnom-mestu-kako-odrzavati-higijenu-na-poslu.md
+  - sa-dubinskim-ciscenjem-ba/_posts/2023-10-26-otklonite-fleke-na-tepihu-vodic-za-uspsno-dubinsko-ciscenje-tepiha.md
 more_posts: posts.md
 featured: true
 ---
