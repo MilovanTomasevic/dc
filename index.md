@@ -95,7 +95,7 @@ Započnite put ka besprekornom čišćenju vaših prostora! Pozovite [Dubinsko �
 
 Dopustite da Dubinsko Čišćenje BA unapredi čistoću vašeg prostora!
 
-Pružamo vrhunsku uslugu dubinskog čišćenja za domove, stanove i restorane. Osigurajte čist, udoban i higijenski prostor uz [naše iskusne timove](/kontakt/).
+Pružamo vrhunsku uslugu dubinskog čišćenja za kuće, stanove i restorane. Osigurajte čist, udoban i higijenski prostor uz [naše iskusne timove](/kontakt/).
 
 <div class="centered">
 <lord-icon
